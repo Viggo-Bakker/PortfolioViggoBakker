@@ -160,6 +160,6 @@ body {
     line-height: 1.5;
     color: #555;
 }
-p .error{
+.text-box .error{
     color: red;
 }
